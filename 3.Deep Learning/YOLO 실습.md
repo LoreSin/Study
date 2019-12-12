@@ -21,9 +21,7 @@
 
 - 설치 명령어 [pip install labelimg]
 - 사용 명령어 [labelimg]
-
-[이미지의 구역라벨링 하는 프로그램](https://github.com/tzutalin/labelImg)
-
+- [labelimg 링크](https://github.com/tzutalin/labelImg)
 - 최대한 다양한 + 많은 종류의 라벨을 사용하여, 데이터셋을 구축함.
 
 
