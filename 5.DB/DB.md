@@ -31,7 +31,12 @@
 
 ## NoSQL
   RDB 형식이 아닌 데이터를 처리하는 DB
-  유형에 따라 Key-Value, Document, Column, Graph 형식이 존재.
+  
+- 유형
+  - Key-Value (MemCached, Redis)
+  - Document (MongoDB)
+  - Column (HBase)
+  - Graph
 
 -----
 
