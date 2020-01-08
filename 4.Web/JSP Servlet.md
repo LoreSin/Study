@@ -1,4 +1,5 @@
 # Servlet & JSP
+  
 
 ## 간단한 요약
   자바언어를 이용하여 웹페이지를 만드는 서버프로그램
@@ -36,3 +37,9 @@
 - JSP 에서 사용되는 태그들의 집합.
 - 기존에 사용한 자바문법을 사용할때 생기는 가독성 및 복잡성 해소.
 - 현재 1.2 버젼이 사용됨.
+
+
+## 참조
+- `최범균의 JSP 2.3 웹 프로그래밍`
+- [jsp model1](https://en.wikipedia.org/wiki/JSP_model_1_architecture)
+- [jsp model2](https://en.wikipedia.org/wiki/JSP_model_2_architecture)
