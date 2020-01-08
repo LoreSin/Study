@@ -6,6 +6,7 @@
 
 ## SQL
   DDL / DML / DCL
+  RDB 에서 사용되는 DB 를 사용하기 위한 언어
 
 ### DDL
   데이터 정의(Define) 언어
@@ -28,6 +29,10 @@
   - GRANT, REVOKE 등의 유저권한에 따른 제어 // COMMIT, ROLLBACK 등 쿼리작업 반영여부를 제어.
   - 외부 커넥션 접근제어를 의미.
 
+## NoSQL
+  RDB 형식이 아닌 데이터를 처리하는 DB
+  유형에 따라 Key-Value, Document, Column, Graph 형식이 존재.
+
 -----
 
 
@@ -41,8 +46,6 @@
   성능은 약간 떨어지나, 안정성면이 높다고 함.
 
 ## MongoDB
-  Non-RDB 에서 사용되는 DB
-  Document 타입 (Json 데이터) 이라고 하는, 동적 스키마 데이터를 취급
-  동적 스키마 - 테이블의 컬럼이 다양하고, 관계성이 제각각인 데이터
-  빅데이터 분야에서 각광 받는 DBMS.
+  NoSQL 이며 Non-RDB 에서 사용되는 DB
+  Document 타입 (Json 데이터) 의 동적 스키마 데이터를 취급
 
