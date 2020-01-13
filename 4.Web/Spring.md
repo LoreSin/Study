@@ -14,7 +14,7 @@
 - __DI (Dependency Injection)__ : 외부의 파일에서 클래스 간 설정을 정의.
     - DAO-Service 함수매핑 또는 JDBC 의 DB Connection 설정등 사용
     - Context.xml 의 bean 설정들을 통해서 객체를 사용함.
-    - 한줄요약 : __Context.xml__ 에서 Java __객체를 생성__하고, __코드에서 사용__한다.
+    - 한줄요약 : __Context.xml__ 에서 Java __객체를 생성__ 하고, __코드에서 사용__ 한다.
     
 - Context : Application 에서 사용할 설정모음.
     + WAS (Web App Server) 에서 해당 컨텍스트 및 객체들의 사용관리
